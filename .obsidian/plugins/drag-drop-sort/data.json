@@ -1,0 +1,29 @@
+{
+  "orders": {
+    "Oxford": [
+      "Maths",
+      "Computer Science",
+      "Ideas",
+      "Resources"
+    ],
+    "Oxford/Maths": [
+      "Intro to Uni Maths",
+      "Complex Numbers",
+      "Probability"
+    ],
+    "/": [
+      "Oxford",
+      "First Note.md",
+      "How To.md"
+    ],
+    "Oxford/Maths/Intro to Uni Maths": [
+      "IUM - Functions.md",
+      "IUM - Logic.md",
+      "IUM - Natural Numbers.md",
+      "IUM - Relations.md",
+      "IUM - Sets.md",
+      "IUM - Constructing Z from N.md",
+      "IUM - Bijective function for anything.md"
+    ]
+  }
+}
