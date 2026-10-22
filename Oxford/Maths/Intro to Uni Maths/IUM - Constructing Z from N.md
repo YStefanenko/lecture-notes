@@ -9,13 +9,9 @@ We can define an addition operation on the equivalence classes by
 $$[(a, b)] \oplus [(c, d)] = [(a + c, b + d)].$$
 This is well-defined because choosing a different representative of $[(a, b)]$ doesn't change the equivalence class on the right-hand side.
 
-## My Take:
-
-Rearrange the expression to be $(a, b) \sim (c, d) \iff a - b = c - d$.
-Therefore the difference between a and b in each equivalence class is constant. 
-This means that the classes for diagonal lines of x + y = k on a Cartesian graph.
-Notice how a - b can be positive or negative.
-By defining addition as: $[(a, b)] \oplus [(c, d)] = [(a + c, b + d)]$, we can add in $\mathbb{Z}$ through working with equivalence class only in $\mathbb{N}$.
-
-
-
+> [!mytake]- My take
+> Rearrange the expression to be $(a, b) \sim (c, d) \iff a - b = c - d$.
+> Therefore the difference between a and b in each equivalence class is constant. 
+> This means that the classes for diagonal lines of x + y = k on a Cartesian graph.
+> Notice how a - b can be positive or negative.
+> By defining addition as: $[(a, b)] \oplus [(c, d)] = [(a + c, b + d)]$, we can add in $\mathbb{Z}$ through working with equivalence class only in $\mathbb{N}$.

@@ -29,12 +29,13 @@ Given a polynomial $p(x) = a_{n}x^n+\dots+a_{1}x^1+a_{o}$ with $n\geq1$, and $a_
 
 
 For polynomials with $a_{n} \in \mathbb{R}$, if $z_{0}$ is a root, $\overline{z_{0}}$ is also a root.
-**Proof:** 
-	Given $z_{0}$ is a root, $p(z_{0}) = 0$.
-	Consider $p(\overline{z_{0}}) = a_{n}\overline{z_{0}}^n+\dots+a_{1}\overline{z_{0}}^1+a_{o}$.
-	Since $a_n \in \mathbb{R}$ , $a_{n} = \overline{a_{n}}$.
-	Using properties of conjugates, find that $p(\overline{z_{0}}) = \overline{p(z_{0})} = 0$
-	Thus $\overline{z_{0}}$ is also a root.
+
+> [!proof]- Proof
+> Given $z_{0}$ is a root, $p(z_{0}) = 0$.
+> Consider $p(\overline{z_{0}}) = a_{n}\overline{z_{0}}^n+\dots+a_{1}\overline{z_{0}}^1+a_{o}$.
+> Since $a_n \in \mathbb{R}$ , $a_{n} = \overline{a_{n}}$.
+> Using properties of conjugates, find that $p(\overline{z_{0}}) = \overline{p(z_{0})} = 0$
+> Thus $\overline{z_{0}}$ is also a root.
 
 So, groups of $(x-z_{0})(x-\overline{z_{0}})$ can be combined to become quadratics with real coefficients.
 
@@ -44,8 +45,8 @@ Thus every polynomial can be expressed as $a_{n} \times$ a polynomial with real 
 $z = a + bi = r(\cos(\theta)+ i \sin(\theta))$
 
 **Definition:** 
-	$r$ is modulus. $|z|=r$
-	$\theta$ is argument. $arg(z) = \theta$
+$r$ is modulus. $|z|=r$
+$\theta$ is argument. $arg(z) = \theta$
 
 If $\theta \in [0, 2\pi]$, it is called the **principal argument**.
 

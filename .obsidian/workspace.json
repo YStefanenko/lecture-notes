@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d89767431f90e83c",
+        "id": "3f1678c4a04aed66",
         "type": "tabs",
         "children": [
           {
-            "id": "9c4d045237b6e87d",
+            "id": "a2394538cd97fffc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oxford/Maths/Intro to Uni Maths/IUM - Functions.md",
-                "mode": "source",
+                "file": "Oxford/Maths/Analysis/A1 - Completeness, Sup and Inf.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IUM - Functions"
+              "title": "A1 - Completeness, Sup and Inf"
             }
           }
         ]
@@ -188,36 +188,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "9c4d045237b6e87d",
+  "active": "a2394538cd97fffc",
   "lastOpenFiles": [
-    "Oxford/Maths/Probability/Prelims Probability.md",
-    "Oxford/Maths/Complex Numbers/Complex Numbers.md",
-    "Oxford/Maths/Complex Numbers",
-    "First Note.md",
-    "Oxford/Maths/Probability",
-    "Oxford/Maths/Intro to Uni Maths/IUM - Natural Numbers.md",
-    "Oxford/Maths/Intro to Uni Maths/IUM - Functions.md",
-    "Oxford/Maths/Intro to Uni Maths/IUM - Logic.md",
-    "Oxford/Maths/Intro to Uni Maths/IUM - Sets.md",
-    "Oxford/Maths/Intro to Uni Maths/Untitled.md",
-    "Oxford/Maths/Intro to Uni Maths/IUM - Relations.md",
-    "Oxford/Maths/Intro to Uni Maths/IUM - Constructing Z from N.md",
-    "Oxford/Maths/Intro to Uni Maths/IUM - Bijective function for anything.md",
-    "How To.md",
-    "Oxford/Maths/Intro to Uni Maths",
+    "Oxford/Computer Science/Functional Programming/FP - Evaluation, Bottom and Strictness.md",
+    "Oxford/Computer Science/Functional Programming/FP - Definitions, Operators and Precedence.md",
+    "Oxford/Computer Science/Functional Programming/FP - List Comprehensions and Composition.md",
+    "Oxford/Computer Science/Functional Programming/FP - Polymorphism, Type Inference and Type Classes.md",
+    "Oxford/Computer Science/Functional Programming/FP - Datatypes and Recursion.md",
+    "Oxford/Maths/Analysis/A1 - Completeness, Sup and Inf.md",
+    "Oxford/Computer Science/Functional Programming/FP - GHCi, Types and Currying.md",
+    "Oxford/Computer Science/Functional Programming/FP.md",
+    "Oxford/Computer Science/Functional Programming",
     "Oxford/Computer Science/Functional Programming.md",
+    "Oxford/Maths/Analysis/A1.md",
+    "Oxford/Maths/Analysis/A1 - Field and Order Axioms.md",
+    "Oxford/Maths/Analysis/A1 - Algebra of Limits.md",
+    "Oxford/Maths/Probability/P1 - Discrete Random Variables.md",
+    "Oxford/Maths/Probability/P1.md",
+    "Oxford/Maths/Probability/P1 - Continuous Random Variables.md",
+    "Oxford/Maths/Probability/P1 - Axioms and Conditional Probability.md",
+    "Oxford/Maths/Linear Algebra/LA1 - Matrix Algebra.md",
+    "Oxford/Maths/Linear Algebra/LA1 - Dimension.md",
+    "Oxford/Maths/Probability/Prelims Probability.md",
+    "Oxford/Maths/Probability/P1 - Joint Discrete Distributions.md",
+    "Oxford/Maths/Probability/P1 - Joint Continuous Distributions.md",
+    "Oxford/Maths/Probability/P1 - Random Samples and the Weak Law.md",
+    "Oxford/Maths/Probability/P1 - Generating Functions and Branching Processes.md",
+    "Oxford/Maths/Probability/P1 - Appendix.md",
+    "Oxford/Maths/Probability/P1 - Difference Equations and Random Walks.md",
+    "Oxford/Maths/Analysis/A1 - Power Series.md",
+    "Oxford/Maths/Linear Algebra",
+    "Oxford/Maths/Analysis",
+    "Templates",
+    "Oxford/Maths/Complex Numbers",
+    "Oxford/Maths/Probability",
+    "Oxford/Maths/Intro to Uni Maths",
     "Untitled.base",
-    "Oxford/Maths/Uni Maths.md",
     "Oxford/Resources",
     "Oxford/Research",
-    "Oxford/Ideas",
-    "Oxford/Computer Science",
-    "Oxford/Maths",
-    "HowTo.md",
-    "Untitled",
-    "Untitled.canvas",
-    "2026-10-03.md",
-    "Oxford/Lecture 1.md",
-    "How.md"
+    "Untitled.canvas"
   ]
 }

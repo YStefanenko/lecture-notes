@@ -11,14 +11,15 @@ $F$ is well-defined because every representative of $[x]$ has the same value of 
 
 **Claim:** $F$ is a bijection.
 
-*Proof.*
-(Injective): If $F([x]) = F([y])$ then $f(x) = f(y)$, so $x \sim y$ and therefore $[x] = [y]$.
-(Surjective): The codomain was changed from $Y$ to $f(X)$, and every function is surjective onto its image. $\square$
+> [!proof]- Proof
+> (Injective): If $F([x]) = F([y])$ then $f(x) = f(y)$, so $x \sim y$ and therefore $[x] = [y]$.
+> (Surjective): The codomain was changed from $Y$ to $f(X)$, and every function is surjective onto its image. $\square$
 
-**Specific example:** Let $X = \mathbb{R}$, $Y = \mathbb{C}$, with $f(x) = e^{2\pi i x}$.
-The induced equivalence relation on $\mathbb{R}$ is $x \sim y \iff x - y \in \mathbb{Z}$ (as in Example A.10).
-So $F : \mathbb{R}/\sim \; \to f(\mathbb{R})$ is a bijection, where $f(\mathbb{R})$ is the unit circle and $\mathbb{R}/\sim$ is usually written $\mathbb{R}/\mathbb{Z}$.
-
-Therefore $\mathbb{R}/\mathbb{Z}$ is in bijection with the unit circle.
+> [!example]- Specific example: $\mathbb{R}/\mathbb{Z}$ and the unit circle
+> Let $X = \mathbb{R}$, $Y = \mathbb{C}$, with $f(x) = e^{2\pi i x}$.
+> The induced equivalence relation on $\mathbb{R}$ is $x \sim y \iff x - y \in \mathbb{Z}$ (as in Example A.10).
+> So $F : \mathbb{R}/\sim \; \to f(\mathbb{R})$ is a bijection, where $f(\mathbb{R})$ is the unit circle and $\mathbb{R}/\sim$ is usually written $\mathbb{R}/\mathbb{Z}$.
+> 
+> Therefore $\mathbb{R}/\mathbb{Z}$ is in bijection with the unit circle.
 
 *When a function isn't injective, quotient the problem away.*

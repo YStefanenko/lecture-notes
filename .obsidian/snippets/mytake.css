@@ -1,0 +1,11 @@
+/* "My take" callout: > [!mytake]- My take */
+.callout[data-callout="mytake"] {
+  --callout-color: 240, 128, 128;
+  --callout-icon: lucide-lightbulb;
+  background-color: rgba(240, 128, 128, 0.15) !important;
+  border-left: 4px solid rgb(240, 128, 128) !important;
+}
+.callout[data-callout="mytake"] .callout-title,
+.callout[data-callout="mytake"] .callout-icon {
+  color: rgb(240, 128, 128) !important;
+}

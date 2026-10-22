@@ -1,0 +1,238 @@
+{
+  "nodePositions": [
+    {
+      "id": "First Note.md",
+      "x": -3232.291259765625,
+      "y": -2435.547119140625
+    },
+    {
+      "id": "How To.md",
+      "x": -3944.926513671875,
+      "y": -1583.64111328125
+    },
+    {
+      "id": "Oxford/Computer Science/Functional Programming.md",
+      "x": 202.75364685058594,
+      "y": -1625.2830810546875
+    },
+    {
+      "id": "Oxford/Maths/Intro to Uni Maths/IUM - Bijective function for anything.md",
+      "x": -157.04238891601562,
+      "y": 572.96923828125
+    },
+    {
+      "id": "Oxford/Maths/Intro to Uni Maths/IUM - Constructing Z from N.md",
+      "x": 683.3328857421875,
+      "y": -132.95457458496094
+    },
+    {
+      "id": "Oxford/Maths/Intro to Uni Maths/IUM - Functions.md",
+      "x": 1049.8953857421875,
+      "y": 273.66864013671875
+    },
+    {
+      "id": "Oxford/Maths/Intro to Uni Maths/IUM - Logic.md",
+      "x": 581.9243774414062,
+      "y": 858.9328002929688
+    },
+    {
+      "id": "Oxford/Maths/Intro to Uni Maths/IUM - Natural Numbers.md",
+      "x": 111.21051788330078,
+      "y": 844.1161499023438
+    },
+    {
+      "id": "Oxford/Maths/Intro to Uni Maths/IUM - Relations.md",
+      "x": 16.793399810791016,
+      "y": 247.35818481445312
+    },
+    {
+      "id": "Oxford/Maths/Intro to Uni Maths/IUM - Sets.md",
+      "x": 982.86572265625,
+      "y": 561.2977294921875
+    },
+    {
+      "id": "Oxford/Maths/Complex Numbers/Complex Numbers.md",
+      "x": 945.0308837890625,
+      "y": -1320.8165283203125
+    },
+    {
+      "id": "Templates/My take.md",
+      "x": -2079.887939453125,
+      "y": -3586.260498046875
+    },
+    {
+      "id": "Oxford/Maths/Linear Algebra/LA1 - Linear Systems and Row Reduction.md",
+      "x": -2629.991455078125,
+      "y": 1392.18896484375
+    },
+    {
+      "id": "Oxford/Maths/Linear Algebra/LA1 - Matrix Algebra.md",
+      "x": -3155.314697265625,
+      "y": 1139.8455810546875
+    },
+    {
+      "id": "Oxford/Maths/Linear Algebra/LA1 - Matrices of Linear Maps.md",
+      "x": -3217.28173828125,
+      "y": 1492.5772705078125
+    },
+    {
+      "id": "Oxford/Maths/Linear Algebra/LA1 - Inner Product Spaces.md",
+      "x": -2630.175537109375,
+      "y": 1001.9089965820312
+    },
+    {
+      "id": "Oxford/Maths/Linear Algebra/LA1 - Vector Spaces and Subspaces.md",
+      "x": -2479.803955078125,
+      "y": 1582.0670166015625
+    },
+    {
+      "id": "Oxford/Maths/Linear Algebra/LA1 - Linear Transformations.md",
+      "x": -2839.186767578125,
+      "y": 1185.645751953125
+    },
+    {
+      "id": "Oxford/Maths/Linear Algebra/LA1 - Inverses, Transposes and Orthogonal Matrices.md",
+      "x": -2911.201171875,
+      "y": 886.5345458984375
+    },
+    {
+      "id": "Oxford/Maths/Linear Algebra/LA1 - Span, Independence and Bases.md",
+      "x": -2840.67578125,
+      "y": 1866.8326416015625
+    },
+    {
+      "id": "Oxford/Maths/Linear Algebra/LA1 - Dimension.md",
+      "x": -2540.81201171875,
+      "y": 1807.6109619140625
+    },
+    {
+      "id": "Oxford/Maths/Linear Algebra/LA1.md",
+      "x": -2917.192626953125,
+      "y": 1492.511962890625
+    },
+    {
+      "id": "Oxford/Maths/Analysis/A1 - Completeness, Sup and Inf.md",
+      "x": 2096.951171875,
+      "y": -1659.1495361328125
+    },
+    {
+      "id": "Oxford/Maths/Analysis/A1 - Complex Numbers.md",
+      "x": 1623.304931640625,
+      "y": -1388.039794921875
+    },
+    {
+      "id": "Oxford/Maths/Analysis/A1 - Infinite Series.md",
+      "x": 2303.819091796875,
+      "y": -547.1898193359375
+    },
+    {
+      "id": "Oxford/Maths/Analysis/A1 - Monotone Sequences and Subsequences.md",
+      "x": 1859.3966064453125,
+      "y": -1371.7294921875
+    },
+    {
+      "id": "Oxford/Maths/Analysis/A1 - Cauchy Sequences.md",
+      "x": 1595.008056640625,
+      "y": -964.0845336914062
+    },
+    {
+      "id": "Oxford/Maths/Analysis/A1 - Algebra of Limits.md",
+      "x": 2466.68701171875,
+      "y": -1425.1341552734375
+    },
+    {
+      "id": "Oxford/Maths/Analysis/A1 - Sequences and Convergence.md",
+      "x": 2548.429443359375,
+      "y": -998.484375
+    },
+    {
+      "id": "Oxford/Maths/Analysis/A1 - Field and Order Axioms.md",
+      "x": 2397.8896484375,
+      "y": -1698.3077392578125
+    },
+    {
+      "id": "Oxford/Maths/Analysis/A1 - Convergence Tests.md",
+      "x": 2599.86083984375,
+      "y": -569.9329833984375
+    },
+    {
+      "id": "Oxford/Maths/Analysis/A1 - Elementary Functions.md",
+      "x": 2739.717041015625,
+      "y": -1276.6298828125
+    },
+    {
+      "id": "Oxford/Maths/Analysis/A1 - Countability.md",
+      "x": 1926.6982421875,
+      "y": -187.53692626953125
+    },
+    {
+      "id": "Oxford/Maths/Analysis/A1 - Power Series.md",
+      "x": 2755.701416015625,
+      "y": -769.2771606445312
+    },
+    {
+      "id": "Oxford/Maths/Analysis/A1.md",
+      "x": 2238.9697265625,
+      "y": -1158.429931640625
+    },
+    {
+      "id": "Oxford/Maths/Probability/P1 - Axioms and Conditional Probability.md",
+      "x": 2701.532470703125,
+      "y": 1012.5889892578125
+    },
+    {
+      "id": "Oxford/Maths/Probability/P1 - Difference Equations and Random Walks.md",
+      "x": 2528.458740234375,
+      "y": 556.1959228515625
+    },
+    {
+      "id": "Oxford/Maths/Probability/P1 - Continuous Random Variables.md",
+      "x": 2657.97998046875,
+      "y": 1242.6114501953125
+    },
+    {
+      "id": "Oxford/Maths/Probability/P1 - Appendix.md",
+      "x": 2566.5302734375,
+      "y": 40.16504669189453
+    },
+    {
+      "id": "Oxford/Maths/Probability/P1 - Generating Functions and Branching Processes.md",
+      "x": 2787.84716796875,
+      "y": 266.3739318847656
+    },
+    {
+      "id": "Oxford/Maths/Probability/P1.md",
+      "x": 2836.16796875,
+      "y": 697.76611328125
+    },
+    {
+      "id": "Oxford/Maths/Probability/P1 - Random Samples and the Weak Law.md",
+      "x": 2498.28662109375,
+      "y": 1026.1531982421875
+    },
+    {
+      "id": "Oxford/Maths/Probability/P1 - Discrete Random Variables.md",
+      "x": 3061.3017578125,
+      "y": 441.33648681640625
+    },
+    {
+      "id": "Oxford/Maths/Probability/P1 - Joint Continuous Distributions.md",
+      "x": 2969.900390625,
+      "y": 1187.81787109375
+    },
+    {
+      "id": "Oxford/Maths/Probability/P1 - Joint Discrete Distributions.md",
+      "x": 3191.534912109375,
+      "y": 899.9894409179688
+    }
+  ],
+  "pinnedNodes": [],
+  "snapshots": [],
+  "globalOptions": {},
+  "workspacesGraphData": {},
+  "automaticallyRestoreNodePositions": true,
+  "enableSaveOptions": false,
+  "enableWorkspaces": false,
+  "enableAutoSave": true,
+  "autoSaveIntervalSeconds": 1
+}
