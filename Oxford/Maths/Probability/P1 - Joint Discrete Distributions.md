@@ -1,4 +1,4 @@
-Prelims Probability, Chapter 2.4. Back to [[P1]]. Builds on [[P1 - Discrete Random Variables]].
+Prelims Probability, Chapter 2.4. Back to [[P1 - Basics]]. Builds on [[P1 - Discrete Random Variables]].
 
 $\mathbb{P}(X = x)$ and $\mathbb{P}(Y = y)$ alone don't determine how $X$ and $Y$ behave together (think $Y = X^2$).
 

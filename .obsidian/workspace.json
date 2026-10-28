@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3f1678c4a04aed66",
+        "id": "30444d8baee66b8a",
         "type": "tabs",
         "children": [
           {
-            "id": "a2394538cd97fffc",
+            "id": "7891ff07305c1970",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oxford/Maths/Analysis/A1 - Completeness, Sup and Inf.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "A1 - Completeness, Sup and Inf"
+              "title": "New tab"
             }
           }
         ]
@@ -188,35 +184,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "a2394538cd97fffc",
+  "active": "7891ff07305c1970",
   "lastOpenFiles": [
-    "Oxford/Computer Science/Functional Programming/FP - Evaluation, Bottom and Strictness.md",
-    "Oxford/Computer Science/Functional Programming/FP - Definitions, Operators and Precedence.md",
-    "Oxford/Computer Science/Functional Programming/FP - List Comprehensions and Composition.md",
-    "Oxford/Computer Science/Functional Programming/FP - Polymorphism, Type Inference and Type Classes.md",
-    "Oxford/Computer Science/Functional Programming/FP - Datatypes and Recursion.md",
-    "Oxford/Maths/Analysis/A1 - Completeness, Sup and Inf.md",
+    "Oxford/Maths/Intro to Uni Maths/IUM - Functions.md",
+    "Oxford/Maths/Probability/P1 - Axioms and Conditional Probability.md",
+    "Oxford/Maths/Probability/P1 - Discrete Random Variables.md",
     "Oxford/Computer Science/Functional Programming/FP - GHCi, Types and Currying.md",
+    "Oxford/Computer Science/Functional Programming.md",
+    "Oxford/Maths/Probability/P1 - Basics.md",
+    "Oxford/Maths/Probability/P1 - Continuous Random Variables.md",
+    "Oxford/Maths/Probability/P1 - Difference Equations and Random Walks.md",
+    "Oxford/Maths/Probability/P1 - Random Samples and the Weak Law.md",
+    "Oxford/Maths/Probability/P1 - Joint Continuous Distributions.md",
+    "Oxford/Maths/Linear Algebra/LA1 - Vector Spaces and Subspaces.md",
+    "Oxford/Maths/Linear Algebra/LA1 - Inner Product Spaces.md",
+    "Oxford/Maths/Linear Algebra/LA1 - Dimension.md",
+    "Oxford/Maths/Linear Algebra/LA1 - Elementary Row Operations.md",
+    "Oxford/Maths/Linear Algebra/LA1 - Linear Transformations.md",
+    "Oxford/Maths/Linear Algebra/LA1 - Matrices of Linear Maps.md",
+    "Oxford/Maths/Linear Algebra/LA1 - Span, Independence and Bases.md",
+    "Oxford/Maths/Linear Algebra/LA1 - Matrix Algebra.md",
+    "Oxford/Computer Science/Functional Programming/FP - Polymorphism, Type Inference and Type Classes.md",
+    "Oxford/Computer Science/Functional Programming/FP - Definitions, Operators and Precedence.md",
+    "Oxford/Computer Science/Functional Programming/FP - Datatypes and Recursion.md",
+    "Oxford/Computer Science/Functional Programming/FP - Evaluation, Bottom and Strictness.md",
+    "Oxford/Maths/Analysis/A1 - Field and Order Axioms.md",
+    "Oxford/Maths/Analysis/A1 - Completeness, Sup and Inf.md",
+    "Oxford/Computer Science/Functional Programming/FP - List Comprehensions and Composition.md",
     "Oxford/Computer Science/Functional Programming/FP.md",
     "Oxford/Computer Science/Functional Programming",
-    "Oxford/Computer Science/Functional Programming.md",
-    "Oxford/Maths/Analysis/A1.md",
-    "Oxford/Maths/Analysis/A1 - Field and Order Axioms.md",
-    "Oxford/Maths/Analysis/A1 - Algebra of Limits.md",
-    "Oxford/Maths/Probability/P1 - Discrete Random Variables.md",
-    "Oxford/Maths/Probability/P1.md",
-    "Oxford/Maths/Probability/P1 - Continuous Random Variables.md",
-    "Oxford/Maths/Probability/P1 - Axioms and Conditional Probability.md",
-    "Oxford/Maths/Linear Algebra/LA1 - Matrix Algebra.md",
-    "Oxford/Maths/Linear Algebra/LA1 - Dimension.md",
-    "Oxford/Maths/Probability/Prelims Probability.md",
-    "Oxford/Maths/Probability/P1 - Joint Discrete Distributions.md",
-    "Oxford/Maths/Probability/P1 - Joint Continuous Distributions.md",
-    "Oxford/Maths/Probability/P1 - Random Samples and the Weak Law.md",
-    "Oxford/Maths/Probability/P1 - Generating Functions and Branching Processes.md",
-    "Oxford/Maths/Probability/P1 - Appendix.md",
-    "Oxford/Maths/Probability/P1 - Difference Equations and Random Walks.md",
-    "Oxford/Maths/Analysis/A1 - Power Series.md",
     "Oxford/Maths/Linear Algebra",
     "Oxford/Maths/Analysis",
     "Templates",

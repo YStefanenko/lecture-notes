@@ -1,4 +1,4 @@
-Prelims Probability, Chapter 5.5. Back to [[P1]]. Continuous analogue of [[P1 - Joint Discrete Distributions]].
+Prelims Probability, Chapter 5.5. Back to [[P1 - Basics]]. Continuous analogue of [[P1 - Joint Discrete Distributions]].
 
 The **joint c.d.f.** of any pair is $F_{X,Y}(x, y) = \mathbb{P}(X \leq x, Y \leq y)$. It is non-decreasing in each argument, tends to $0$ as $x, y \to -\infty$, and to $1$ as $x, y \to \infty$.
 

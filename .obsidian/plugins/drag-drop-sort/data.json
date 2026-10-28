@@ -30,11 +30,11 @@
     "Oxford/Maths/Analysis": [
       "A1 - Field and Order Axioms.md",
       "A1 - Completeness, Sup and Inf.md",
+      "A1 - Countability.md",
+      "A1 - Complex Numbers.md",
       "A1 - Algebra of Limits.md",
       "A1 - Cauchy Sequences.md",
-      "A1 - Complex Numbers.md",
       "A1 - Convergence Tests.md",
-      "A1 - Countability.md",
       "A1 - Elementary Functions.md",
       "A1 - Infinite Series.md",
       "A1 - Monotone Sequences and Subsequences.md",
@@ -43,7 +43,7 @@
       "A1.md"
     ],
     "Oxford/Maths/Probability": [
-      "P1 - Appendix.md",
+      "P1 - Basics.md",
       "P1 - Axioms and Conditional Probability.md",
       "P1 - Discrete Random Variables.md",
       "P1 - Continuous Random Variables.md",
@@ -52,19 +52,28 @@
       "P1 - Joint Continuous Distributions.md",
       "P1 - Joint Discrete Distributions.md",
       "P1 - Random Samples and the Weak Law.md",
-      "P1.md"
+      "P1 - Appendix.md"
     ],
     "Oxford/Maths/Linear Algebra": [
       "LA1 - Matrix Algebra.md",
+      "LA1 - Elementary Row Operations.md",
+      "LA1 - Vector Spaces and Subspaces.md",
       "LA1 - Dimension.md",
       "LA1 - Inner Product Spaces.md",
       "LA1 - Inverses, Transposes and Orthogonal Matrices.md",
-      "LA1 - Linear Systems and Row Reduction.md",
       "LA1 - Linear Transformations.md",
       "LA1 - Matrices of Linear Maps.md",
       "LA1 - Span, Independence and Bases.md",
-      "LA1 - Vector Spaces and Subspaces.md",
       "LA1.md"
+    ],
+    "Oxford/Computer Science/Functional Programming": [
+      "FP - GHCi, Types and Currying.md",
+      "FP - List Comprehensions and Composition.md",
+      "FP - Definitions, Operators and Precedence.md",
+      "FP - Datatypes and Recursion.md",
+      "FP - Polymorphism, Type Inference and Type Classes.md",
+      "FP - Evaluation, Bottom and Strictness.md",
+      "FP.md"
     ]
   }
 }

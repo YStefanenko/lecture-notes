@@ -1,4 +1,4 @@
-Prelims Probability, Chapter 3. Back to [[P1]].
+Prelims Probability, Chapter 3. Back to [[P1 - Basics]].
 
 Difference equations are a tool rather than probability, but conditioning on the first step of a process naturally produces them.
 

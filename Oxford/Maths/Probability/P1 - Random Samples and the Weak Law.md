@@ -1,4 +1,4 @@
-Prelims Probability, Chapter 6. Back to [[P1]].
+Prelims Probability, Chapter 6. Back to [[P1 - Basics]].
 
 > **Definition 6.1 (Random sample)**
 > i.i.d. random variables $X_1, \dots, X_n$ form a **random sample** of size $n$ from their common ("parent") distribution.

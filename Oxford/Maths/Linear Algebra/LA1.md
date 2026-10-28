@@ -3,7 +3,7 @@ Linear Algebra I (Richard Earl, Oxford Prelims, Michaelmas). Index of topic note
 The course in one line: solve linear systems by row reduction, then abstract the setting (vector spaces, bases, dimension, linear maps) so that matrices become **coordinates for linear maps**, and finally add geometry with inner products.
 
 ## Topics
-1. [[LA1 - Linear Systems and Row Reduction]]: systems as matrices, EROs, elementary matrices, RRE form, solving systems *(Ch 1.1, 1.3)*
+1. [[LA1 - Elementary Row Operations]]: systems as matrices, EROs, elementary matrices, RRE form, solving systems *(Ch 1.1, 1.3)*
 2. [[LA1 - Matrix Algebra]]: addition, multiplication, identity, inverses, $2 \times 2$ inverse, matrices commuting with everything *(Ch 1.2)*
 3. [[LA1 - Inverses, Transposes and Orthogonal Matrices]]: transpose, special matrices, finding inverses with EROs, orthogonal matrices *(Ch 2)*
 4. [[LA1 - Vector Spaces and Subspaces]]: axioms, examples, subspace test, sums and intersections *(Ch 3)*

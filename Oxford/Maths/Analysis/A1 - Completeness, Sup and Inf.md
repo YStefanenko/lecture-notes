@@ -105,7 +105,7 @@ Example 1.62: the set of upper bounds of $\varnothing$ is $\mathbb{R}$, which ha
 Example 1.69: $\sup[1, 2) = 2$, $\inf[1, 2) = 1 = \min[1,2)$, and $\max[1, 2)$ doesn't exist.
 
 > **Corollary 1.70 (Approximation Property for infima)**
-> Let $T$ be non-emzpty and bounded below, and $\varepsilon > 0$. Then there exists $t \in T$ with
+> Let $T$ be non-empty and bounded below, and $\varepsilon > 0$. Then there exists $t \in T$ with
 > $$\inf T \leq t < \inf T + \varepsilon.$$
 
 > **Corollary 1.71**

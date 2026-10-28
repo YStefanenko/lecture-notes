@@ -1,4 +1,4 @@
-Prelims Probability, Chapter 4. Back to [[P1]].
+Prelims Probability, Chapter 4. Back to [[P1 - Basics]].
 
 Throughout, $X$ takes values in $\{0, 1, 2, \dots\}$ and $p_k = \mathbb{P}(X = k)$.
 

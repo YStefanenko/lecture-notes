@@ -1,4 +1,4 @@
-Prelims Probability, Chapter 1.3–1.7. Back to [[P1]].
+Prelims Probability, Chapter 1.3–1.7. Back to [[P1 - Basics]].
 
 ## The Axiomatic Approach
 
@@ -12,6 +12,11 @@ Prelims Probability, Chapter 1.3–1.7. Back to [[P1]].
 > - **P2** $\mathbb{P}(\Omega) = 1$.
 > - **P3** If $\{A_i : i \in I\}$ is a finite or countably infinite collection in $\mathcal{F}$ with $A_i \cap A_j = \varnothing$ for $i \neq j$, then $\mathbb{P}\left(\bigcup_{i \in I} A_i\right) = \sum_{i \in I}\mathbb{P}(A_i)$.
 > 	Simpler case: $A,B \in \mathcal{F}$ and $\implies (A \cap B)=\varnothing \implies \mathbb{P}(A \cup B) = \mathbb{P}(A) + \mathbb{P}(B)$
+
+> [!mytake]- My Take
+> $\omega$ is an outcome. 
+> $A$ is an event which is a collection of outcomes. A can just be ${\omega}$.
+> $\mathcal{F}$ is a set of all events.
 
 Special case of P3: if $A \cap B = \varnothing$ then $\mathbb{P}(A \cup B) = \mathbb{P}(A) + \mathbb{P}(B)$. This implies P3 for all finite collections (induction), but the countably infinite version is genuinely stronger.
 

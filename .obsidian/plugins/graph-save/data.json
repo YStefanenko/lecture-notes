@@ -11,24 +11,19 @@
       "y": -1583.64111328125
     },
     {
-      "id": "Oxford/Computer Science/Functional Programming.md",
-      "x": 202.75364685058594,
-      "y": -1625.2830810546875
-    },
-    {
       "id": "Oxford/Maths/Intro to Uni Maths/IUM - Bijective function for anything.md",
       "x": -157.04238891601562,
       "y": 572.96923828125
     },
     {
       "id": "Oxford/Maths/Intro to Uni Maths/IUM - Constructing Z from N.md",
-      "x": 683.3328857421875,
-      "y": -132.95457458496094
+      "x": 784.9555053710938,
+      "y": 244.5341796875
     },
     {
       "id": "Oxford/Maths/Intro to Uni Maths/IUM - Functions.md",
-      "x": 1049.8953857421875,
-      "y": 273.66864013671875
+      "x": 932.1148681640625,
+      "y": 472.4300231933594
     },
     {
       "id": "Oxford/Maths/Intro to Uni Maths/IUM - Logic.md",
@@ -61,7 +56,7 @@
       "y": -3586.260498046875
     },
     {
-      "id": "Oxford/Maths/Linear Algebra/LA1 - Linear Systems and Row Reduction.md",
+      "id": "Oxford/Maths/Linear Algebra/LA1 - Elementary Row Operations.md",
       "x": -2629.991455078125,
       "y": 1392.18896484375
     },
@@ -201,7 +196,7 @@
       "y": 266.3739318847656
     },
     {
-      "id": "Oxford/Maths/Probability/P1.md",
+      "id": "Oxford/Maths/Probability/P1 - Basics.md",
       "x": 2836.16796875,
       "y": 697.76611328125
     },
@@ -224,6 +219,91 @@
       "id": "Oxford/Maths/Probability/P1 - Joint Discrete Distributions.md",
       "x": 3191.534912109375,
       "y": 899.9894409179688
+    },
+    {
+      "id": "Oxford/Computer Science/Functional Programming/FP - Datatypes and Recursion.md",
+      "x": -2344.5478515625,
+      "y": -2629.819091796875
+    },
+    {
+      "id": "Oxford/Computer Science/Functional Programming/FP - Definitions, Operators and Precedence.md",
+      "x": -1721.185302734375,
+      "y": -2770.02587890625
+    },
+    {
+      "id": "Oxford/Computer Science/Functional Programming/FP - Evaluation, Bottom and Strictness.md",
+      "x": -2152.4619140625,
+      "y": -2482.040283203125
+    },
+    {
+      "id": "Oxford/Computer Science/Functional Programming/FP - GHCi, Types and Currying.md",
+      "x": -2009.62841796875,
+      "y": -2683.071533203125
+    },
+    {
+      "id": "Oxford/Computer Science/Functional Programming/FP - List Comprehensions and Composition.md",
+      "x": -1704.83984375,
+      "y": -2971.293212890625
+    },
+    {
+      "id": "Oxford/Computer Science/Functional Programming/FP - Polymorphism, Type Inference and Type Classes.md",
+      "x": -2336.092529296875,
+      "y": -2867.121826171875
+    },
+    {
+      "id": "Oxford/Computer Science/Functional Programming/FP.md",
+      "x": -2061.9912109375,
+      "y": -2972.447265625
+    },
+    {
+      "id": "/Oxford",
+      "x": -421.2581481933594,
+      "y": -758.6536254882812
+    },
+    {
+      "id": "/Oxford/Computer Science",
+      "x": -1236.4088134765625,
+      "y": -1698.9593505859375
+    },
+    {
+      "id": "/Oxford/Computer Science/Functional Programming",
+      "x": -1792.830810546875,
+      "y": -2389.93701171875
+    },
+    {
+      "id": "/Oxford/Maths",
+      "x": 322.6661071777344,
+      "y": -41.20602798461914
+    },
+    {
+      "id": "/Oxford/Maths/Analysis",
+      "x": 1993.240966796875,
+      "y": -976.3739624023438
+    },
+    {
+      "id": "/Oxford/Maths/Complex Numbers",
+      "x": 478.00225830078125,
+      "y": -675.91748046875
+    },
+    {
+      "id": "/Oxford/Maths/Intro to Uni Maths",
+      "x": 350.8616943359375,
+      "y": 580.4071655273438
+    },
+    {
+      "id": "/Oxford/Maths/Linear Algebra",
+      "x": -2244.076171875,
+      "y": 1188.77197265625
+    },
+    {
+      "id": "/Oxford/Maths/Probability",
+      "x": 2309.123291015625,
+      "y": 788.9088745117188
+    },
+    {
+      "id": "/Templates",
+      "x": -2062.858642578125,
+      "y": -3964.028564453125
     }
   ],
   "pinnedNodes": [],

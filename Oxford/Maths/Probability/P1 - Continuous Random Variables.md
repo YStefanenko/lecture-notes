@@ -1,4 +1,4 @@
-Prelims Probability, Chapter 5.1–5.4. Back to [[P1]]. Next: [[P1 - Joint Continuous Distributions]].
+Prelims Probability, Chapter 5.1–5.4. Back to [[P1 - Basics]]. Next: [[P1 - Joint Continuous Distributions]].
 
 Some quantities (lengths, weights, times) are naturally continuous, and continuous models also approximate huge discrete ones. A fair spinner's angle can't give each angle positive probability; instead $\mathbb{P}(X \in [a, b]) = \frac{b - a}{2\pi}$.
 

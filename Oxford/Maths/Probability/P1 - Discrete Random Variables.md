@@ -1,4 +1,4 @@
-Prelims Probability, Chapter 2.0–2.3. Back to [[P1]]. Next: [[P1 - Joint Discrete Distributions]].
+Prelims Probability, Chapter 2.0–2.3. Back to [[P1 - Basics]]. Next: [[P1 - Joint Discrete Distributions]].
 
 > **Definition 2.1 (Discrete random variable)**
 > A **discrete random variable** on $(\Omega, \mathcal{F}, \mathbb{P})$ is a function $X : \Omega \to \mathbb{R}$ such that
@@ -6,6 +6,11 @@ Prelims Probability, Chapter 2.0–2.3. Back to [[P1]]. Next: [[P1 - Joint Discr
 > 2. $\operatorname{Im}X = X(\Omega)$ is a finite or countable subset of $\mathbb{R}$.
 
 (1) says $\{X = x\}$ is an event, so $\mathbb{P}(X = x)$ makes sense. (2) says $X$ takes countably many values. If $\Omega$ is countable and $\mathcal{F}$ is its power set, both hold automatically. Abbreviation: r.v.
+
+>[!mytake]- My take
+> (1) says every value of random variable can be traced back to SOME event, not necessarily unique.
+> (2) is needed for the DISCRETE part.
+
 
 > [!example]- Example 2.2
 > Two dice, $\Omega = \{(i, j) : 1 \leq i, j \leq 6\}$: $X(i, j) = \max\{i, j\}$ and $Y(i, j) = i + j$ are random variables.

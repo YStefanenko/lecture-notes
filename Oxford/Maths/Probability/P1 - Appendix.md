@@ -1,4 +1,4 @@
-Prelims Probability, Appendix. Back to [[P1]].
+Prelims Probability, Appendix. Back to [[P1 - Basics]].
 
 ## Useful Analysis (A.1)
 

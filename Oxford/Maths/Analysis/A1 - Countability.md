@@ -14,14 +14,14 @@ $\approx$ is reflexive, symmetric and transitive (identity is a bijection, bijec
 > [!note]- Remark 2.4 (cardinality is well-defined)
 > If $A \approx \{1, \dots, k\}$ and $A \approx \{1, \dots, l\}$ with $k \neq l$, take the smallest such $k$; a bijection $\{1..k\} \to \{1..l\}$ with $k$ and $f(k)$ removed gives a smaller counterexample $k - 1 \neq l - 1$. ("Least criminal" argument.)
 
-**Exercise 2.5** For finite $A, B$: if $A \subseteq B$ then $|A| \leq |B|$; if $f : A \to B$ is 1-1 then $|A| \leq |B|$; if $g : A \to B$ is onto then $|A| \geq |B|$.
+**Exercise 2.5** For finite $A, B$: if $A \subseteq B$ then $|A| \leq |B|$; if $f : A \to B$ is 1-1 map (injection) then $|A| \leq |B|$; if $g : A \to B$ is onto (surjective) then $|A| \geq |B|$.
 
 > [!note]- Remark 2.6 (Cantor–Bernstein–Schröder, off-syllabus)
 > For any sets, write $|A| \leq |B|$ if there's a 1-1 map $A \to B$. **CBS:** if $|A| \leq |B|$ and $|B| \leq |A|$ then $A \approx B$.
 
 > **Definition 2.7 (Infinite)** A set which is not finite is **infinite**.
 
-Equivalently, a set is infinite iff it is equinumerous with a proper subset (Remark 2.8). $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R}, \mathbb{C}$ are all infinite (Example 2.9), but not all equinumerous.
+Equivalently, a set is infinite if and only if it is equinumerous with a proper subset of its own. (Remark 2.8). $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R}, \mathbb{C}$ are all infinite (Example 2.9), but not all equinumerous.
 
 > **Definition 2.10 (Countable)**
 > $A$ is **countably infinite** (denumerable) if $\mathbb{N} \approx A$. $A$ is **countable** if it is finite or countably infinite; otherwise **uncountable**.
